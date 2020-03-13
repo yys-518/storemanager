@@ -1,0 +1,163 @@
+2020-03-13 13:53:12.406 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting - Starting StoremanagerApplication on 姚元帅 with PID 14300 (F:\MyJob\IDEA\storemanager\target\classes started by YYS in F:\MyJob\IDEA\storemanager)
+2020-03-13 13:53:12.409 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2020-03-13 13:53:12.443 [INFO ] org.springframework.boot.logging.DeferredLog.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-13 13:53:12.444 [INFO ] org.springframework.boot.logging.DeferredLog.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-13 13:53:13.372 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+2020-03-13 13:53:13.382 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-13 13:53:13.382 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting service [Tomcat]
+2020-03-13 13:53:13.383 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-13 13:53:13.503 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring embedded WebApplicationContext
+2020-03-13 13:53:13.504 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1058 ms
+2020-03-13 13:53:13.894 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-13 13:53:13.942 [INFO ] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping.<init> - Adding welcome page: class path resource [templates/index.html]
+2020-03-13 13:53:14.147 [INFO ] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+2020-03-13 13:53:14.177 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-13 13:53:14.200 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-13 13:53:14.202 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted - Started StoremanagerApplication in 2.214 seconds (JVM running for 4.215)
+2020-03-13 13:57:15.257 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-13 13:57:15.868 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting - Starting StoremanagerApplication on 姚元帅 with PID 14300 (F:\MyJob\IDEA\storemanager\target\classes started by YYS in F:\MyJob\IDEA\storemanager)
+2020-03-13 13:57:15.869 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2020-03-13 13:57:16.189 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+2020-03-13 13:57:16.190 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-13 13:57:16.190 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting service [Tomcat]
+2020-03-13 13:57:16.190 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-13 13:57:16.239 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring embedded WebApplicationContext
+2020-03-13 13:57:16.239 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 367 ms
+2020-03-13 13:57:16.301 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-13 13:57:16.309 [INFO ] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping.<init> - Adding welcome page: class path resource [templates/index.html]
+2020-03-13 13:57:16.402 [INFO ] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+2020-03-13 13:57:16.416 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-13 13:57:16.419 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-13 13:57:16.419 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted - Started StoremanagerApplication in 0.598 seconds (JVM running for 246.431)
+2020-03-13 13:57:16.420 [INFO ] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener.onApplicationEvent - Condition evaluation unchanged
+2020-03-13 14:00:11.546 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:00:12.199 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting - Starting StoremanagerApplication on 姚元帅 with PID 14300 (F:\MyJob\IDEA\storemanager\target\classes started by YYS in F:\MyJob\IDEA\storemanager)
+2020-03-13 14:00:12.200 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2020-03-13 14:00:12.528 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+2020-03-13 14:00:12.529 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:00:12.529 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting service [Tomcat]
+2020-03-13 14:00:12.529 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-13 14:00:12.567 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring embedded WebApplicationContext
+2020-03-13 14:00:12.567 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 364 ms
+2020-03-13 14:00:12.629 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:00:12.637 [INFO ] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping.<init> - Adding welcome page: class path resource [templates/index.html]
+2020-03-13 14:00:12.726 [INFO ] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+2020-03-13 14:00:12.740 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:00:12.742 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-13 14:00:12.742 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted - Started StoremanagerApplication in 0.598 seconds (JVM running for 422.755)
+2020-03-13 14:00:12.744 [INFO ] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener.onApplicationEvent - Condition evaluation unchanged
+2020-03-13 14:00:43.858 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:00:48.808 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting - Starting StoremanagerApplication on 姚元帅 with PID 16228 (F:\MyJob\IDEA\storemanager\target\classes started by YYS in F:\MyJob\IDEA\storemanager)
+2020-03-13 14:00:48.815 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2020-03-13 14:00:48.855 [INFO ] org.springframework.boot.logging.DeferredLog.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-13 14:00:48.855 [INFO ] org.springframework.boot.logging.DeferredLog.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-13 14:00:49.845 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+2020-03-13 14:00:49.854 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:00:49.855 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting service [Tomcat]
+2020-03-13 14:00:49.856 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-13 14:00:49.980 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring embedded WebApplicationContext
+2020-03-13 14:00:49.981 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1125 ms
+2020-03-13 14:00:50.441 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:00:50.489 [INFO ] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping.<init> - Adding welcome page: class path resource [templates/index.html]
+2020-03-13 14:00:50.720 [INFO ] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+2020-03-13 14:00:50.752 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:00:50.775 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-13 14:00:50.778 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted - Started StoremanagerApplication in 2.459 seconds (JVM running for 4.51)
+2020-03-13 14:00:55.593 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-13 14:00:55.593 [INFO ] org.springframework.web.servlet.FrameworkServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+2020-03-13 14:00:55.597 [INFO ] org.springframework.web.servlet.FrameworkServlet.initServletBean - Completed initialization in 4 ms
+2020-03-13 14:02:27.503 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:02:28.170 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting - Starting StoremanagerApplication on 姚元帅 with PID 16228 (F:\MyJob\IDEA\storemanager\target\classes started by YYS in F:\MyJob\IDEA\storemanager)
+2020-03-13 14:02:28.171 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2020-03-13 14:02:28.712 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+2020-03-13 14:02:28.713 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:02:28.713 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting service [Tomcat]
+2020-03-13 14:02:28.714 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-13 14:02:28.788 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring embedded WebApplicationContext
+2020-03-13 14:02:28.788 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 614 ms
+2020-03-13 14:02:28.888 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:02:28.903 [INFO ] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping.<init> - Adding welcome page: class path resource [templates/index.html]
+2020-03-13 14:02:29.033 [INFO ] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+2020-03-13 14:02:29.050 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:02:29.054 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-13 14:02:29.054 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted - Started StoremanagerApplication in 0.934 seconds (JVM running for 102.786)
+2020-03-13 14:02:29.056 [INFO ] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener.onApplicationEvent - Condition evaluation unchanged
+2020-03-13 14:02:37.279 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:02:42.986 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting - Starting StoremanagerApplication on 姚元帅 with PID 17048 (F:\MyJob\IDEA\storemanager\target\classes started by YYS in F:\MyJob\IDEA\storemanager)
+2020-03-13 14:02:42.989 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2020-03-13 14:02:43.032 [INFO ] org.springframework.boot.logging.DeferredLog.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-13 14:02:43.032 [INFO ] org.springframework.boot.logging.DeferredLog.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-13 14:02:44.084 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+2020-03-13 14:02:44.099 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:02:44.100 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting service [Tomcat]
+2020-03-13 14:02:44.102 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-13 14:02:44.255 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring embedded WebApplicationContext
+2020-03-13 14:02:44.255 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1223 ms
+2020-03-13 14:02:44.687 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:02:44.736 [INFO ] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping.<init> - Adding welcome page: class path resource [templates/index.html]
+2020-03-13 14:02:44.955 [INFO ] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+2020-03-13 14:02:44.990 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:02:45.015 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-13 14:02:45.018 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted - Started StoremanagerApplication in 2.458 seconds (JVM running for 4.401)
+2020-03-13 14:02:50.390 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-13 14:02:50.390 [INFO ] org.springframework.web.servlet.FrameworkServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+2020-03-13 14:02:50.395 [INFO ] org.springframework.web.servlet.FrameworkServlet.initServletBean - Completed initialization in 5 ms
+2020-03-13 14:02:55.673 [INFO ] com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+2020-03-13 14:02:55.884 [INFO ] com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+2020-03-13 14:03:32.471 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:03:32.471 [INFO ] com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown initiated...
+2020-03-13 14:03:32.475 [INFO ] com.zaxxer.hikari.HikariDataSource.close - HikariPool-1 - Shutdown completed.
+2020-03-13 14:03:33.118 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting - Starting StoremanagerApplication on 姚元帅 with PID 17048 (F:\MyJob\IDEA\storemanager\target\classes started by YYS in F:\MyJob\IDEA\storemanager)
+2020-03-13 14:03:33.119 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2020-03-13 14:03:33.519 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+2020-03-13 14:03:33.519 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:03:33.520 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting service [Tomcat]
+2020-03-13 14:03:33.520 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-13 14:03:33.571 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring embedded WebApplicationContext
+2020-03-13 14:03:33.572 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 449 ms
+2020-03-13 14:03:33.659 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:03:33.672 [INFO ] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping.<init> - Adding welcome page: class path resource [templates/index.html]
+2020-03-13 14:03:33.798 [INFO ] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+2020-03-13 14:03:33.814 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:03:33.817 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-13 14:03:33.817 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted - Started StoremanagerApplication in 0.751 seconds (JVM running for 53.2)
+2020-03-13 14:03:33.818 [INFO ] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener.onApplicationEvent - Condition evaluation unchanged
+2020-03-13 14:59:43.590 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:59:51.934 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting - Starting StoremanagerApplication on 姚元帅 with PID 17536 (F:\MyJob\IDEA\storemanager\target\classes started by YYS in F:\MyJob\IDEA\storemanager)
+2020-03-13 14:59:51.938 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2020-03-13 14:59:51.973 [INFO ] org.springframework.boot.logging.DeferredLog.logTo - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-13 14:59:51.974 [INFO ] org.springframework.boot.logging.DeferredLog.logTo - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-13 14:59:52.699 [INFO ] org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-03-13 14:59:52.702 [INFO ] org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-03-13 14:59:52.728 [INFO ] org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2020-03-13 14:59:53.381 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+2020-03-13 14:59:53.389 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:59:53.390 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting service [Tomcat]
+2020-03-13 14:59:53.391 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-13 14:59:53.555 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring embedded WebApplicationContext
+2020-03-13 14:59:53.555 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1581 ms
+2020-03-13 14:59:53.962 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-13 14:59:54.009 [INFO ] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping.<init> - Adding welcome page: class path resource [templates/index.html]
+2020-03-13 14:59:54.660 [INFO ] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+2020-03-13 14:59:54.711 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-13 14:59:54.743 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-13 14:59:54.746 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted - Started StoremanagerApplication in 3.253 seconds (JVM running for 5.388)
+2020-03-13 16:38:36.815 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-13 16:38:37.669 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting - Starting StoremanagerApplication on 姚元帅 with PID 17536 (F:\MyJob\IDEA\storemanager\target\classes started by YYS in F:\MyJob\IDEA\storemanager)
+2020-03-13 16:38:37.670 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2020-03-13 16:38:37.892 [INFO ] org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-03-13 16:38:37.893 [INFO ] org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-03-13 16:38:37.898 [INFO ] org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn - Finished Spring Data repository scanning in 4ms. Found 0 Redis repository interfaces.
+2020-03-13 16:38:38.108 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+2020-03-13 16:38:38.108 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-13 16:38:38.108 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting service [Tomcat]
+2020-03-13 16:38:38.108 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-13 16:38:38.158 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Initializing Spring embedded WebApplicationContext
+2020-03-13 16:38:38.158 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 484 ms
+2020-03-13 16:38:38.245 [INFO ] org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-13 16:38:38.256 [INFO ] org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping.<init> - Adding welcome page: class path resource [templates/index.html]
+2020-03-13 16:38:38.398 [INFO ] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer - LiveReload server is running on port 35729
+2020-03-13 16:38:38.416 [INFO ] org.apache.juli.logging.DirectJDKLog.log - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-13 16:38:38.419 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-13 16:38:38.420 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted - Started StoremanagerApplication in 0.816 seconds (JVM running for 5929.062)
+2020-03-13 16:38:38.422 [INFO ] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener.onApplicationEvent - Condition evaluation unchanged
